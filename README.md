@@ -2,7 +2,7 @@
 
 Official documentation site for **COMPASS** — the Crew Operations Management & Personnel Assignment Support System for STARFLEET International.
 
-Live site: https://dwizard0.github.io/compass-docs/
+Live site: https://compass.sfi.org/wiki/
 
 ## Contributing
 
